@@ -4,6 +4,13 @@
 
 ## Authors: Bhavya Samhitha Mallineni (mallinen@usc.edu) and Dharitri Hemant Toshikhane (toshika@usc.edu)
 
+#### Contents in the Repository:
+1) ResNet Model python code
+2) Google Colab project notebook
+3) Project Report
+4) Predicted output audio mp3 files
+5) Model Card
+   
 #### Project Outline:
 The goal of our Computer Vision ASL Project is to use image classification to classify the ASL alphabets. ResNet Convolutional Neural Network is utilized for the modeling process. The model will recognize the alphabet that an image represents when it is run through it, and it will generate an audio file that indicates which alphabet it is.
 
