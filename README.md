@@ -6,7 +6,7 @@
 
 #### Contents in the Repository:
 1) ResNet Model python code
-2) Google Colab project notebook
+2) Google Colab project notebook - The Google Colab has everything in it running this would be sufficient
 3) Project Report
 4) Predicted output audio mp3 files
 5) Model Card
